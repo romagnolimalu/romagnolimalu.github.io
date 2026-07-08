@@ -1,2 +1,23 @@
-p { color:azure }
-body {background-color:darkslategray;}
+p { color:azure; }
+body { background-color:darkslategray; }
+b { 
+    color:chartreuse;
+}
+i {
+    color:blueviolet;
+}
+u { 
+    color:aqua;
+}
+ul li {
+    color: deeppink;
+}
+ol li {
+    color:gold;
+}
+primeiro_item {
+    color:darkseagreen;
+}
+#ultimo_item {
+    color:fuchsia;
+}
