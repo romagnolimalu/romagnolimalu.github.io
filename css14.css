@@ -1,0 +1,39 @@
+#Linha01 {
+    background-color: pink;
+    width: 150px;
+    color:palevioletred;
+}
+#Linha02 {
+    background-color: lightgreen;
+    width: 150px;
+    color:green;
+}
+#Linha03 {
+    background-color: lightblue;
+    width: 150px;
+    color: blue;
+}
+#geral {
+    background-color:coral;
+    width: 150px;
+}
+#geral #coluna01 {
+    background-color: antiquewhite;
+    width: 35%;
+    height: 10%;
+    color:brown;
+    float: left;
+}
+#geral #coluna02 {
+    background-color:blueviolet;
+    width: 35%;
+    height: 10%;
+    float: left;
+}
+#geral #coluna03 {
+    background-color:chartreuse;
+    width: 30%;
+    height: 10%;
+    /*float: left;*/
+    clear: both;
+}
